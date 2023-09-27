@@ -1,5 +1,5 @@
 <!---------------------- Add at least 3 Project Features ---------------------->
-Question-1:
+Question-1: 3 Project Features
 
 * You can select 1 course from here only once. The same course cannot be selected repeatedly.
 
@@ -12,8 +12,9 @@ Question-1:
 
 <!--------------------- Discuss how you managed the state in your assignment project. ------------------->
 
-Question-2:
--->I will discuss about two hooks in the React library.
+Question-2: Project Management Discussion
+
+I will discuss about two hooks in the React library.
 
     a. useState() : It returns an array containing two values (1) which is the variable name, first its value in the state (if any default value is given) then its value is updated by the 2nd function.
     (2) Function : The value of the state is updated through this function.

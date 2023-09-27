@@ -8,12 +8,10 @@ Question-1:
 * The titles of the selected courses will be bookmarked in the side bar.
 
 * Taken, Remaining and Total credits can be seen in the side bar.
-.
-.
+
 
 <!--------------------- Discuss how you managed the state in your assignment project. ------------------->
-.
-.
+
 Question-2:
 -->I will discuss about two hooks in the React library.
 
